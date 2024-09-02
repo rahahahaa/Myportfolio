@@ -60,22 +60,22 @@ export const projects = [
 export const achievements = [
     {
         id: 1,
-        year: 80,
+        year: 20,
         description: "SUCCESSFULLY<br />COMPLETED<br />PROJECTS",
     },
     {
         id: 2,
-        year: 15,
+        year: 2,
         description: "YEARS OF<br />EXPERIENCE",
     },
     {
         id: 3,
-        year: 25,
+        year: 20,
         description: "TECHNOLOGIES",
     },
     {
         id: 4,
-        year: 70,
+        year: 30,
         description: "COMMUNITY<br />POSTS",
     },
 ];
